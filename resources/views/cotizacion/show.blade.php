@@ -93,7 +93,6 @@
                             return `<a class="btn btn-sm btn-danger" target="_blank" href="${ticketUrl.replace('0', row.id)}">Ticket</a>` +
                                 `<a class="btn btn-sm btn-warning" onclick="anularCotizacion(${row.id})" href="#">Eliminar</a>`;
                         }
-
                     }
                 ],
                 language: {
