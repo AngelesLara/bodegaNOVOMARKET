@@ -1,7 +1,7 @@
 <table>
     <tr>
         <td colspan="2">
-            <img src="{{ public_path('/img/logo.png') }}" alt="Logo" height="90" />
+            <img src="{{ public_path('/img/novologo.png') }}" alt="Logo" height="90" />
         </td>
         <td colspan="7">
             <p>REPORTE DE CAJA</p>

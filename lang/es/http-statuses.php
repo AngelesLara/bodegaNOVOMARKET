@@ -3,11 +3,11 @@
 declare(strict_types=1);
 
 return [
-    '0'            => 'Error desconocido',
+    '0'            => 'Error Desconocido',
     '100'          => 'Continuar',
-    '101'          => 'Protocolos de conmutación',
+    '101'          => 'Protocolos de Conmutación',
     '102'          => 'Procesando',
-    '200'          => 'DE ACUERDO',
+    '200'          => 'Success',
     '201'          => 'Creado',
     '202'          => 'Aceptado',
     '203'          => 'Información no autorizada',

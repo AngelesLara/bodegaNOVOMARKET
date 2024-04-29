@@ -104,7 +104,7 @@
                         data: 'foto',
                         render: function(data, type, row) {
                             return data ? '<img src="storage/' + data +
-                                '" alt="Imagen del Producto" style="max-width: 100px; max-height: 100px;">' :
+                                '" alt="Imagen del Producto" style="max-width: 150px; max-height: 150px;">' :
                                 'Sin imagen';
                         }
                     },

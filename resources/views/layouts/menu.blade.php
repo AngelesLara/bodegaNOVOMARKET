@@ -32,7 +32,7 @@
             <a href="{{ route('dashboard') }}">NOVO MARKET</a>
         </div>
         <div class="sidebar-brand sidebar-brand-sm">
-            <a href="{{ route('dashboard') }}">St</a>
+            <a href="{{ route('dashboard') }}">N-M</a>
         </div>
         <ul class="sidebar-menu">
             <li class="menu-header">Dashboard</li>

@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="{{ asset('assets/css/components.css') }}">
     <style>
         .fondo {
-            background-image: url('./img/fondo.webp');
+            background-image: url('./img/fondonovo.jpg');
             background-attachment: fixed;
             background-size: cover;
         }
